@@ -5,7 +5,7 @@ import SignUp from './pages/Auth/SignUp';
 import Home from './pages/Dashboard/Home';
 import Expenses from './pages/Dashboard/Expenses';
 import Income from './pages/Dashboard/Income';
-import UserProvider from './context/UserContext';
+import UserProvider from './context/UserContext.jsx';
 import { Toaster } from 'react-hot-toast';
 
 const Root = () => {
